@@ -27,7 +27,8 @@
 - Developing C Mods:
      Place your custom C source files into the coxelc_mods directory created at runtime, referencing the
   coxelc.h header for available functions and callbacks.
-- Physics & Heavy Voxel Computations: Offloads intensive mathematical operations (e.g., complex mechanical linkages, projectile dynamics, and voxel field updates) directly to native C execution.
+- Physics & Heavy Voxel Computations: Offloads intensive mathematical operations (e.g., complex mechanical linkages, projectile dynamics, and voxel field updates) directly to native C execution. (not now)
+
   ---
 ## Ex.
 ```c
