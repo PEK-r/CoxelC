@@ -17,10 +17,10 @@
       - on_server_tick
       - on_block_break
    3. C Utility Functions: Provides built-in utility functions for C mods:
-      - cubec_send_chat(...)
-      - cubec_log(...)
-      - cubec_run_command(...)
-      - cubec_get_player_pos(...)
+      - coxelc_send_chat(...)
+      - coxelc_log(...)
+      - coxelc_run_command(...)
+      - coxelc_get_player_pos(...)
 
   ---
 ##  Usage
