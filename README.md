@@ -14,11 +14,11 @@
 ## all event CubeC has now:
 - on_player_joina()
   <br>
-  Ex: void on_player_join(const char *name) {}
+  Ex: `void on_player_join(const char *name) {}`
 ## all function CubeC has now:
 - cubec_send_chat()
   <br>
-  Ex: cubec_send_chat("§aWelcome, %s! You are player #%d", name, 1);
+  Ex: `cubec_send_chat("§aWelcome, %s! You are player #%d", name, 1);`
 - cubec_log()
   <br>
-  Ex: cubec_log("Player joined: %s", name);
+  Ex: `cubec_log("Player joined: %s", name);`
