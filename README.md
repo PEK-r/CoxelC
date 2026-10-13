@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/icon.png" alt="CoxelC Icon" width="200"/>
+</p>
+
+
 # CoxelC
 
 -  CoxelC is a NeoForge `Minecraft` mod designed for Minecraft 1.21 (NeoForge 21.1.172) that embeds `TinyCC` (TCC)
